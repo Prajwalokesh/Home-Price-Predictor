@@ -77,15 +77,7 @@ const Header = () => {
                   <DollarSign size={18} className="me-1 d-none d-sm-inline" /> Predict
                 </Nav.Link>
                 
-                <Nav.Link 
-                  as={Link} 
-                  to="/history" 
-                  className={`mx-2 ${location.pathname === '/history' ? 'active fw-semibold' : ''}`}
-                  onClick={closeMenu}
-                >
-                  <History size={18} className="me-1 d-none d-sm-inline" /> History
-                </Nav.Link>
-                
+              
                 <div className="ms-2 d-flex align-items-center">
                   <span className="me-3 d-none d-lg-inline text-secondary">
                     Hello, {user?.name}
