@@ -102,7 +102,6 @@ const HomePage = () => {
           </Row>
         </Container>
       </section>
-
       {/* How It Works Section */}
       <section className="bg-light py-5" id="how-it-works">
         <Container className="py-5">

@@ -197,7 +197,6 @@ const PredictionPage = () => {
             </Card.Body>
           </Card>
         </Col>
-
         <Col lg={6}>
           {result ? (
             <Card className="border-0 shadow-sm h-100 bg-light">
