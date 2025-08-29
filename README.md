@@ -1,4 +1,4 @@
-# 🏡 Home Price Predictor
+#  Home Price Predictor 🏡
 
 Home Price Predictor is a machine learning-based project designed to estimate house prices based on key features such as location, size, and amenities. It provides users with accurate predictions by analyzing historical housing data and identifying trends, helping buyers, sellers, and investors make informed decisions.
 
